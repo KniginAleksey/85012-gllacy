@@ -1,7 +1,6 @@
-# Личный проект «Глейси»
+﻿# Личный проект «Глейси»
 
-* Студент: [Юлия Тимошенко](https://up.htmlacademy.ru/htmlcss/13/user/85012).
-* Наставник: `Неизвестно`.
+* Студент: [Knigin Aleksey](https://htmlacademy.ru/profile/id137691).
 
 ---
 
@@ -12,19 +11,21 @@ _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 ### Памятка
 
-#### 1. Зарегистрируйтесь на Гитхабе
+#### 1.1. ТЫ ОБЯЗАН ЗАКОНЧИТЬ БАЗОВЫЙ HTML И CSS ДО 31.09.2016!!!
+
+#### 1.2. Зарегистрируйтесь на Гитхабе
 
 Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
 
 #### 2. Создайте форк
 
-[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/85012-gllacy) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
+[Откройте мастер-репозиторий](https://github.com/htmlacademy-htmlcss/92687-barbershop) и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии скопируется в ваш аккаунт.
 
-<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391926/4aaa72b0-bdfc-11e5-9324-e0597e8e0084.jpg">
+<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391800/6077bf90-bdfb-11e5-88e1-7589f1d4bcc7.jpg">
 
 Получится вот так:
 
-<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391927/4ad24f1a-bdfc-11e5-83e9-eb692950a6e5.jpg">
+<img width="769" alt="" src="https://cloud.githubusercontent.com/assets/10909/12391804/6d683b76-bdfb-11e5-87fa-35a0aa855e1c.jpg">
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
@@ -34,7 +35,7 @@ _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
 
-#### 4. Начинайте обучение!
+#### 4. Начинайте обучение! И делайте это каждый день!!! Каждый!!! :)
 
 ---
 
